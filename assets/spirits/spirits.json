@@ -1,0 +1,38 @@
+[
+	{
+		"Name": "A Spread of Rampant Green",
+		"Complexity": {
+			"Rating": 2,
+			"Complexity": "Moderate"
+		},
+		"Description": "This green spreads rampantly",
+		"ImageName": "RampantGreen"
+	},
+	{
+		"Name": "Lightning's Swift Strike",
+		"Complexity": {
+			"Rating": 1,
+			"Complexity": "Low"
+		},
+		"Description": "It's not Zapdos, I swear",
+		"ImageName": "LightningStrike"
+	},
+	{
+		"Name": "Bringer of Dreams and Nightmares",
+		"Complexity": {
+			"Rating": 3,
+			"Complexity": "High"
+		},
+		"Description": "Freddy Krueger wannabe",
+		"ImageName": "Dreams"
+	},
+	{
+		"Name": "Ocean's Hungry Grasp",
+		"Complexity": {
+			"Rating": 3,
+			"Complexity": "High"
+		},
+		"Description": "This water is thirsty for food",
+		"ImageName": "OceanHungry"
+	}
+]
